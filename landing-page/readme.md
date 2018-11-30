@@ -15,7 +15,7 @@ Para que possamos avaliar a sua evolução no projeto, pedimos que faça os comm
 Inclua também todas as informações que achar relevantes para avaliarmos a sua possível contratação (github, linkedin e o que mais te der na telha).
 Não temos um prazo estipulado para esse desafio, mas lembre-se que o processo seletivo já está em andamento.
 
-##  Oque é uma Landing Page?
+##  O que é uma Landing Page?
 Uma landing page é uma página simples voltada a convencer o visitante a efetuar uma conversão,
 que pode ser a aquisição de um determinado produto ou, no nosso caso, o preenchimento de um
 formulário contendo seus dados de contato (Lead).
