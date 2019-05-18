@@ -6,7 +6,7 @@ O desafio consiste em criar o layout de uma landing-page em três formatos difer
 
 - 767px para o mobile;
 - 1024px para o tamanho intermediário;
-- 1920px para o desktop;Atenção
+- 1920px para o desktop;
 
 
 ### Atenção
