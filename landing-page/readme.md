@@ -1,19 +1,17 @@
 # Teste de aptidões
 
 ## Introdução
-Para avaliar um pouco do seu conhecimento técnico e da sua forma de resolver problemas, propomos um breve desafio.
-Ele consiste em criar uma landing-page no Photoshop e depois transformar a sua criação em uma página web com HTML e CSS.
+Para avaliar um pouco do seu conhecimento técnico e a sua forma de resolver problemas, propomos um breve desafio.
+O desafio consiste em criar o layout de uma landing-page em três formatos diferentes que equivalem a sua responsividade:
 
-A solução *pode* ser desenvolvida usando o Git como controle de versão, com um fork nesse repositório. 
-Caso não saiba utilizar o git você também pode entregar por email (vagas-ti@actualsales.com.br).
-
-### Se for usar o git:
-Para que possamos avaliar a sua evolução no projeto, pedimos que faça os commits progressivamente ao invés de um grande "commitão" no final.
+- 767px para o mobile;
+- 1024px para o tamanho intermediário;
+- 1920px para o desktop;Atenção
 
 
 ### Atenção
-Inclua também todas as informações que achar relevantes para avaliarmos a sua possível contratação (github, linkedin e o que mais te der na telha).
-Não temos um prazo estipulado para esse desafio, mas lembre-se que o processo seletivo já está em andamento.
+Inclua também todas as informações que achar relevantes para avaliarmos a sua possível contratação (github, linkedin e o que mais achar relevante).
+Não temos um prazo estipulado para esse desafio, mas lembre-se que o processo seletivo já está em andamento. Quando terminar, você pode enviar os PSD´s e os JPG´s para o email: vagas-ti@actualsales.com.br
 
 ##  O que é uma Landing Page?
 Uma landing page é uma página simples voltada a convencer o visitante a efetuar uma conversão,
@@ -41,7 +39,7 @@ O formulário desta página deve conter os campos
 - **Email**
 - **Telefone**
 
-A sua missão é criar uma Landing page que um design bonito e atraente para os visitantes. Você precisa criar a versão PSD e depois transformar isso em HTML/CSS
+A sua missão é criar uma Landing page com um design bonito e atraente para os visitantes.
 
 *Os textos da página podem ser [lorem ipsum](https://br.lipsum.com/) mas caso tenha vontade pode criar os textos também.*
 
