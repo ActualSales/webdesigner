@@ -9,10 +9,6 @@ O desafio consiste em criar o layout de uma landing-page em três formatos difer
 - 1920px para o desktop;
 
 
-### Atenção
-Inclua também todas as informações que achar relevantes para avaliarmos a sua possível contratação (github, linkedin e o que mais achar relevante).
-Não temos um prazo estipulado para esse desafio, mas lembre-se que o processo seletivo já está em andamento. Quando terminar, você pode enviar os PSD´s e os JPG´s para o email: vagas-ti@actualsales.com.br
-
 ##  O que é uma Landing Page?
 Uma landing page é uma página simples voltada a convencer o visitante a efetuar uma conversão,
 que pode ser a aquisição de um determinado produto ou, no nosso caso, o preenchimento de um
@@ -44,6 +40,6 @@ A sua missão é criar uma Landing page com um design bonito e atraente para os 
 *Os textos da página podem ser [lorem ipsum](https://br.lipsum.com/) mas caso tenha vontade pode criar os textos também.*
 
 ## Dúvidas?
-É só mandar um e-mail para <vagas-ti@actualsales.com.br>.
+É só mandar um e-mail para <guilherme.assemany@actualsales.com>.
 
 Obrigado e boa sorte!
